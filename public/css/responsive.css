@@ -1,0 +1,17 @@
+@media screen and (max-width:922px){
+
+}
+
+@media screen and (max-width:576px){
+    #top-nav{
+        height: auto;
+        /* padding: 10px; */
+    }
+    .navbar-brand{
+        font-size: 15px;
+    }
+}
+
+@media screen  and (max-width:350px){
+
+}
